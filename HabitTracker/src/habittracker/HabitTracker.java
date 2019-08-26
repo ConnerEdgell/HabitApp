@@ -19,6 +19,7 @@ public class HabitTracker {
         
         System.out.println("Hello World");
         System.out.print("habit");
+        System.out.println("woo baby");
     }
     
 }
