@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package habittracker;
-
+import javax.swing.*;
 /**
  *
  * @author conne
@@ -18,8 +18,8 @@ public class HabitTracker {
         // TODO code application logic 
         
         System.out.println("Hello World");
-        System.out.print("habit");
+        System.out.println("habit");
         System.out.println("woo baby");
     }
-    
+
 }
