@@ -10,6 +10,6 @@ package habittracker;
  * @author conne
  */
 public class Habits {
-    //this is where we can have user input for personalized habits
+  
     
 }
