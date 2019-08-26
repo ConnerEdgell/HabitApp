@@ -10,5 +10,6 @@ package habittracker;
  * @author jacob
  */
 public class HabitInterface {
+    //this class should contain the code for the gui
     
 }

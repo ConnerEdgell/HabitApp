@@ -10,6 +10,5 @@ package habittracker;
  * @author conne
  */
 public class Habits {
-  
-    
+    /*This class will be used for getting user input and storing the inputs*/
 }

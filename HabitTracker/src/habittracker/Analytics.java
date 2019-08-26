@@ -10,5 +10,7 @@ package habittracker;
  * @author conne
  */
 public class Analytics {
+    /*this class will be for displaying the habits that you have streaks on and 
+    also the habits that you are struggling to get streaks on*/
     
 }
