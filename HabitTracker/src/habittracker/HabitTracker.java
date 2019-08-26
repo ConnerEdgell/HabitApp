@@ -18,6 +18,7 @@ public class HabitTracker {
         // TODO code application logic 
         
         System.out.println("Hello World");
+        System.out.print("habit");
     }
     
 }
