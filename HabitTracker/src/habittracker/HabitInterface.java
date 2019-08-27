@@ -9,6 +9,9 @@ package habittracker;
  *
  * @author jacob
  */
+
+import javax.swing.*;
+import java.awt.*;
 public class HabitInterface {
     //this class should contain the code for the gui
     
