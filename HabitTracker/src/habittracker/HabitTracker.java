@@ -16,10 +16,9 @@ public class HabitTracker {
      */
     public static void main(String[] args) {
         // TODO code application logic 
+        String habit;
         
-        System.out.println("Hello World");
-        System.out.println("habit");
-        System.out.println("woo baby");
+        
     }
 
 }
