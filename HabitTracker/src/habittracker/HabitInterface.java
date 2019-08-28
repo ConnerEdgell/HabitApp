@@ -27,7 +27,9 @@ public class HabitInterface extends HabitTracker {
         frame.setSize(height,width);
         frame.setLayout(new BorderLayout());
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        buildJMenu();
         frame.setVisible(true);
+        
     }
     
     public void buildJMenu(){
