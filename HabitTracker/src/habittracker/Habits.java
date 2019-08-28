@@ -4,11 +4,11 @@
  * and open the template in the editor.
  */
 package habittracker;
-
 /**
  *
  * @author conne
  */
-public class Habits {
+public class Habits extends HabitTracker {
     /*This class will be used for getting user input and storing the inputs*/
+    
 }

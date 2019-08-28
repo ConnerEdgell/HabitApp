@@ -9,7 +9,7 @@ package habittracker;
  *
  * @author conne
  */
-public class Tracker {
+public class Tracker extends HabitTracker {
     /*This class will be used for keeping track of time and tracking the streaks
     of different habits*/
     

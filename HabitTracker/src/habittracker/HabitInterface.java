@@ -13,7 +13,7 @@ package habittracker;
 import javax.swing.*;
 import java.awt.*;
 
-public class HabitInterface {
+public class HabitInterface extends HabitTracker {
     //this class should contain the code for the gui
  public static void main(String[] args){   
     //create  windows dimensions
